@@ -49,13 +49,3 @@ chrome://extensions/
 
 ```
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=FreeSource-Code&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FreeSource-Code&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
