@@ -21,7 +21,7 @@ At **Free Source Code**, we believe tools should be:
 
 | 🔧 Name | 💡 Feature | 📊 Status |
 |--------|------------|-----------|
-| ** OAS AI v1.10** | Press `F2` to auto-fetch answers from web pages | ✅ Live |
+|<a href="">OAS AI v1.10</a> | Press `F2` to auto-fetch answers from web pages | ✅ Live |
 
 
 ---
