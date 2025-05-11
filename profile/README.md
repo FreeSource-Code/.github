@@ -19,9 +19,9 @@ At **Free Source Code**, we believe tools should be:
 
 ## 🧩 Extensions We Build
 
-| 🔧 Name | 💡 Feature | 📊 Status |
-|--------|------------|-----------|
-|<a href="https://github.com/FreeSource-Code/OAS-Extensions">OAS AI v1.10</a> | Press `F2` to auto-fetch answers from web pages | ✅ Live |
+| 🔧 Name | 💡 Feature | 📊 Status | ⚡Version |
+|--------|------------|-----------|-------|
+|<a href="https://github.com/FreeSource-Code/OAS-Extensions">OAS AI</a> | Press `F2` to auto-fetch answers from web pages | ✅ Live | 1.10 |
 
 
 ---
