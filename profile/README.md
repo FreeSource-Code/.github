@@ -46,3 +46,16 @@ chrome://extensions/
 # Step 3: Enable Developer Mode
 
 # Step 4: Click "Load unpacked" and select folder
+
+```
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishanwalia7579&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanwalia7579&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
