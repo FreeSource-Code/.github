@@ -22,7 +22,7 @@ At **Free Source Code**, we believe tools should be:
 | 🔧 Name | 💡 Feature | 📊 Status | ⚡Version |
 |--------|------------|-----------|-------|
 |<a href="https://github.com/FreeSource-Code/OAS-Extensions">OAS AI</a> | Press `F2` to auto-fetch answers from web pages | ✅ Live | 1.10 |
-|<a href="">Neo-Exam-Shield</a> | Press `F12` to |✅ Live | 1.3.0 |
+|<a href="https://github.com/FreeSource-Code/Neo-Exam-Shield">Neo-Exam-Shield</a> | Press `F12` developer mode  to |✅ Live | 1.3.0 |
 
 
 ---
